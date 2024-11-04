@@ -1,0 +1,25 @@
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Static Currency Converter.exe
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Static Currency Converter.deps.json
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Static Currency Converter.runtimeconfig.json
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Static Currency Converter.dll
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Static Currency Converter.pdb
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter_MarkupCompile.cache
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter_MarkupCompile.lref
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.g.resources
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.AssemblyInfoInputs.cache
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.AssemblyInfo.cs
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.dll
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\refint\Static Currency Converter.dll
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.pdb
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.genruntimeconfig.cache
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\ref\Static Currency Converter.dll
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static Currency Converter.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\App.baml
+C:\Users\lucad\source\repos\Static Currency Converter\obj\Debug\net6.0-windows\Static C.8F4262A0.Up2Date
+C:\Users\lucad\source\repos\Static Currency Converter\bin\Debug\net6.0-windows\Newtonsoft.Json.dll

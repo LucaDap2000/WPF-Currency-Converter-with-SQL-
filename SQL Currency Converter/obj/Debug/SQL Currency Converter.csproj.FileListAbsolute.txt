@@ -1,0 +1,22 @@
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\Database\CurrencyConverter.mdf
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\Database\CurrencyConverter_log.ldf
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\SQL Currency Converter.exe.config
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\SQL Currency Converter.exe
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\SQL Currency Converter.pdb
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\FontAwesome.WPF.dll
+C:\Users\lucad\source\repos\SQL Currency Converter\bin\Debug\FontAwesome.WPF.xml
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.csproj.AssemblyReference.cache
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\MainWindow.g.cs
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\App.g.cs
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter_Content.g.cs
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter_MarkupCompile.cache
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter_MarkupCompile.lref
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\App.baml
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\MainWindow.baml
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.g.resources
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL_Currency_Converter.Properties.Resources.resources
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.csproj.GenerateResource.cache
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Curr.339B0B29.Up2Date
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.exe
+C:\Users\lucad\source\repos\SQL Currency Converter\obj\Debug\SQL Currency Converter.pdb
